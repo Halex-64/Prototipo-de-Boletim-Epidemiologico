@@ -1,0 +1,8 @@
+.pai{
+    padding-top: 150px;
+    gap: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
